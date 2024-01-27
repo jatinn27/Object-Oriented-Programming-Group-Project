@@ -1,0 +1,9 @@
+101 Aloo_prantha 20
+102 tea 10
+103 icecream 30
+104 sandwich 30
+105 breakfast(9am_to_10:30am) 40
+106 lunch(12:30pm_to_3pm) 50
+107 dinner(8pm_to_9:30pm) 50
+108 soft_drinks(small) 20
+109 soft_drinks(2_ltr) 80
